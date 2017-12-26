@@ -1,0 +1,20 @@
+Use limit clause for displaying only a few items on the page. 
+
+If there is nothing in the cart. when you click on it it should say the cart
+ is empty
+
+Everything should come from the table
+
+Library script should be the biggest
+
+Think ahead. make it clean
+
+Use descriptive variables, comment your code you dummy
+
+Sanitize absolutely everything
+
+Make sure you have a backup database
+
+Start by figuring out what you want it to look like then work on trying to find similar 
+Characteristics between different sections and try and write functions that would accomplish both
+
